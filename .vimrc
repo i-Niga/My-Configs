@@ -8,8 +8,8 @@ Plug 'ErichDonGubler/vim-sublime-monokai'
 
 call plug#end()
 
-
 colorscheme moonfly
+
 
 set number relativenumber
 set ruler
