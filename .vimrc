@@ -5,11 +5,11 @@ Plug 'bluz71/vim-moonfly-colors'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ErichDonGubler/vim-sublime-monokai'
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 
 colorscheme moonfly
-
 
 set number relativenumber
 set ruler
