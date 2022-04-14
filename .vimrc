@@ -10,6 +10,7 @@ Plug 'airblade/vim-gitgutter'
 call plug#end()
 
 colorscheme moonfly
+hi Normal guibg=NONE ctermbg=NONE
 
 set number relativenumber
 set ruler
