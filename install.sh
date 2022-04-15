@@ -20,4 +20,4 @@ apt install zsh -y
 chsh -s $(which zsh) 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 cp .zshrc ~/.zshrc
-echo "zsh done!""
+echo "zsh done!"
