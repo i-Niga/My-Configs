@@ -7,8 +7,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 cp .vimrc ~/.vimrc
 vim -e -s -c "source ~/.vimrc" -c "PlugInstall" -c "qa"
 
-cp vifm/vifmrc ~/.vifm/vifmrc
-cp vifm/Ansa.vifm ~/.vifm/colors/Ansa.vifm
+cp -R .vifm ~/
 
 cp .tmux.conf ~/.tmux.conf
 
